@@ -15,7 +15,7 @@ It allows users to add, complete, and delete tasks with smooth animations, while
 ---
 
 ## 🚀 Live Demo
-👉 [View on GitHub Pages](#) *(enable GitHub Pages in settings and paste your link here)*  
+👉 [View on GitHub Pages](#)   
 
 ---
 
